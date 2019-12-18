@@ -12,6 +12,7 @@
 /.firebaserc
 /database.rules.json
 /storage.rules
+/.idea
 
 # testing
 /coverage
